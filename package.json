@@ -40,6 +40,8 @@
     "protractor-cucumber-framework": "^4.2.0"
   },
   "dependencies": {
+    "browserstack": "^1.5.3",
+    "https-proxy-agent": "^3.0.0",
     "micromatch": "^4.0.2"
   }
 }
